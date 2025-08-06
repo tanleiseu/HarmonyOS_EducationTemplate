@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 教育（艺术培训）行业模板 | 教育（备考）行业模板 | 教育（课程助手）行业模板 |
 |:---:|:---:|:---:|
-|![输入图片说明](ArtTraining/Application/screenshots/tab_home.jpeg)| ![输入图片说明](Exam/screenshots/001.jpg) | ![输入图片说明](SchoolLife/doc/1.jpeg) |
+|![输入图片说明](%E8%89%BA%E6%9C%AF%E5%9F%B9%E8%AE%AD%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E6%95%99%E8%82%B2%E5%A4%87%E8%80%83%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) | ![输入图片说明](%E8%AF%BE%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|
